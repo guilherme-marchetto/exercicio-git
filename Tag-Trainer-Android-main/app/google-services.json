@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982599631133",
+    "project_id": "testes-gui",
+    "storage_bucket": "testes-gui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982599631133:android:dc1293dbd509582256e1f4",
+        "android_client_info": {
+          "package_name": "com.example.tagtrainermobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMtefuKbgXlE4-xBnAa3bylSlbi5oOwhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
