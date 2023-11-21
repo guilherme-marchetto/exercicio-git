@@ -57,6 +57,6 @@ dependencies {
     android.buildFeatures.dataBinding
     implementation platform('com.google.firebase:firebase-bom:29.3.0')
     implementation 'com.google.firebase:firebase-analytics'
-    implementation 'com.google.android.gms:play-services-tagmanager:18.0.4'
+    implementation 'com.google.android.gms:play-services-tagmanager:18.0.0'
 
 }
